@@ -1,0 +1,2 @@
+# getting around El Capitan for gems -_-
+sudo gem install bundler -n /usr/local/bin/
